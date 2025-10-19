@@ -23,7 +23,7 @@ I share my learnings, hands-on projects, and DevOps experiments here:
 | Category | Tools |
 |-----------|-------|
 | ☁️ **Cloud Providers** | Azure, AWS |
-| ⚙️ **CI/CD Tools** | GitHub Actions, Azure DevOps, Jenkins |
+| ⚙️ **CI/CD Tools** | Azure DevOps, Jenkins, GitOps and ArgoCD |
 | 🏗️ **Infrastructure as Code (IaC)** | Terraform, ARM Templates |
 | 🐳 **Containers & Orchestration** | Docker, Kubernetes, Argo CD |
 | 📊 **Monitoring & Observability** | Prometheus, Grafana, Alertmanager |
